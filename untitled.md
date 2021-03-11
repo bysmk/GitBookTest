@@ -4,7 +4,7 @@
 
 {% page-ref page="untitled.md" %}
 
-{% page-ref page="untitled2.md" %}
+{% page-ref page="untitled2/" %}
 
 
 
