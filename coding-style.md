@@ -65,6 +65,16 @@ return TestModules
 
 ## 코딩 스타일
 
+### 변수
+
+오브젝트의 변수는 다음과 같이 "."으로 표시해요.
+
+```lua
+Object.Start = 10
+```
+
+### 
+
 ### 함수 
 
 오브젝트의 함수는 다음과 같이 ":"으로 표시해요.
@@ -72,16 +82,6 @@ return TestModules
 ```lua
 Object:StartFunction()
 Object:Function1():Function2()
-```
-
-
-
-### 변수
-
-오브젝트의 변수는 다음과 같이 "."으로 표시해요.
-
-```lua
-Object.Start = 10
 ```
 
 
