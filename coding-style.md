@@ -10,6 +10,8 @@ local로 선언한 변수를 지역 변수라고 해요.
 local WorldString = "Hello world!" 
 ```
 
+
+
 ### 함수 안에서 선언하는 지역 변수
 
 함수안에서 변수를 local로 선언할때는
@@ -22,6 +24,8 @@ local function SomeFunc()
 end
 ```
 
+
+
 ## 전역 변수
 
 변수 이름은 대문자로 시작하고 연결되는 단어도 대문자로 시작해요.
@@ -29,6 +33,8 @@ end
 ```text
 TestWorld = 1
 ```
+
+
 
 ## 함수
 
@@ -41,6 +47,8 @@ end
 WorldStart()
 ```
 
+
+
 ## 모듈
 
 다른 스크립트에서 require로 접근해서 사용할 수 있도록 제공하는 스크립트를 모듈이라고 해요.
@@ -52,6 +60,8 @@ local TestModules = {}
 	...
 return TestModules
 ```
+
+
 
 ## 코딩 스타일
 
