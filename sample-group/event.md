@@ -10,3 +10,11 @@ OnDestroyEvent
 
 OnUpdateEvent
 
+OnCollisionEvent
+
+OnBeginOverlapEvent
+
+OnUpdateOverlapEvent
+
+OnEndOverlapEvent
+
