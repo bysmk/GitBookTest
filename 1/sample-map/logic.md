@@ -8,6 +8,20 @@ description: 스크립팅과 관련된 예제 맵이에요.
 
 
 
+print
+
+Is~ 함수 \(IsStaticMesh\)
+
+GetCharacter 
+
+GetPlayer 
+
+GetName, SetName
+
+~.Parent
+
+GetChildList
+
 AddReplicateValue : 값 동기화
 
 Phase : 페이즈 
