@@ -11,9 +11,9 @@
 
 ## Tutorial Group <a id="1"></a>
 
-* [Studio](1/studio.md)
-* [Game](1/game.md)
-* [Lua](1/lua.md)
+* [Studio Tutorial](1/studio.md)
+* [Game Tutorial](1/game.md)
+* [Lua Tutorial](1/lua.md)
 
 ---
 
