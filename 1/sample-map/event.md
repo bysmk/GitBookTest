@@ -26,5 +26,3 @@ SendEventToClient : 서버로 이벤
 
 ConnectChangeEventFunction : 값이 바뀔때 함수 호출
 
-AddReplicateValue : 값 동기화
-

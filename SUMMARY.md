@@ -20,10 +20,13 @@
 * [Sample Map](1/sample-map/README.md)
   * [Event](1/sample-map/event.md)
   * [Collision](1/sample-map/sound.md)
+  * [TransformTrack](1/sample-map/transformtrack.md)
+  * [Logic](1/sample-map/logic.md)
   * [Camera](1/sample-map/camera.md)
   * [Input](1/sample-map/input.md)
   * [UI](1/sample-map/ui.md)
-  * [Sound & FX](1/sample-map/fx.md)
+  * [Sound](1/sample-map/fx.md)
+  * [FX](1/sample-map/fx-1.md)
 
 ---
 

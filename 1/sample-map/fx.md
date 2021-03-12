@@ -1,2 +1,2 @@
-# Sound & FX
+# Sound
 
