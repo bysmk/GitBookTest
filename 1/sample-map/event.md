@@ -1,6 +1,6 @@
 # Event
 
-OnSpawnEvent
+OnSpawnEvent : 오브젝트가 생성될때 함수를 호출하는 예제에요.
 
 OnDeathEvent
 
@@ -17,4 +17,10 @@ OnBeginOverlapEvent
 OnUpdateOverlapEvent
 
 OnEndOverlapEvent
+
+BroadcastEvent
+
+SendEventToClient
+
+SendEventToClient
 
