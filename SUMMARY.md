@@ -11,9 +11,10 @@
 
 ## Tutorial Group <a id="1"></a>
 
-* [Studio Tutorial](1/studio.md)
-* [Game Tutorial](1/game/README.md)
-  * [스튜디오 기본 사용법](1/game/untitled.md)
+* [Studio Tutorial](1/studio/README.md)
+  * [1. 오브젝트 배치](1/studio/untitled.md)
+  * [2. 오브젝트 편집](1/studio/2..md)
+* [Game Tutorial](1/game.md)
 * [Lua Tutorial](1/lua.md)
 
 ---

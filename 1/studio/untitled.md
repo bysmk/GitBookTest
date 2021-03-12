@@ -1,4 +1,4 @@
-# 스튜디오 기본 사용법
+# 1. 오브젝트 배치
 
 ## 스튜디오 기본 사용법
 
@@ -28,13 +28,13 @@
 
 다음 강좌 : 토이 만들고 공유하기
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="2..md" %}
 
 
 
 관련강좌
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="../../" %}
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="../../" %}
 
