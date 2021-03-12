@@ -10,25 +10,27 @@ description: 스크립팅과 관련된 예제 맵이에요.
 
 print
 
-Enable
-
-Is~ 함수 \(IsStaticMesh\)
-
 GetCharacter 
 
 GetPlayer 
 
-GetName, SetName
+GetAllPlayer
 
-~.Parent
+GetName, SetName
 
 GetChildList
 
+~.Parent
+
+~.Enable
+
+Is~ 함수 \(IsStaticMesh\)
+
 AddReplicateValue : 값 동기화
 
-Phase : 페이즈 
-
 AddTimeEvent : n초후 함수 호출 
+
+Phase : 페이즈 
 
 Utility Module : 유틸리티 모듈 
 
