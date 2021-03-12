@@ -19,7 +19,7 @@
 * [Script Tutorial](1/lua.md)
 * [Sample Map](1/sample-map/README.md)
   * [Event](1/sample-map/event.md)
-  * [Collision](1/sample-map/sound.md)
+  * [Collision & Physics](1/sample-map/sound.md)
   * [Scripting](1/sample-map/logic.md)
   * [Transform](1/sample-map/transformtrack.md)
   * [Camera](1/sample-map/camera.md)
