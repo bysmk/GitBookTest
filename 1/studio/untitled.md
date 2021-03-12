@@ -24,7 +24,7 @@
 
 ## 관련 강좌
 
-{% page-ref page="../../" %}
+{% page-ref page="../../studio-manual.md" %}
 
 {% page-ref page="../../" %}
 
