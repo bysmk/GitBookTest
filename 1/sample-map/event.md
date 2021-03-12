@@ -12,23 +12,27 @@ description: 이벤트 함수와 관련된 예제 맵이에요.
 
 {% file src="../../.gitbook/assets/ondeathevent.zip" caption="캐릭터가 사망될때 함수를 호출하는 예제에요." %}
 
-OnCreateEvent
+OnCreateEvent : 오브젝트 생성시
 
-OnDestroyEvent
+OnDestroyEvent : 오브젝트 파괴시
 
-OnUpdateEvent
+OnUpdateEvent : 프레임마다
 
-OnCollisionEvent
+OnCollisionEvent : 충돌
 
-OnBeginOverlapEvent
+OnBeginOverlapEvent : 오버랩 시작시 
 
-OnUpdateOverlapEvent
+OnUpdateOverlapEvent : 오버랩 중일때 프레임마다
 
-OnEndOverlapEvent
+OnEndOverlapEvent : 오버랩 종료시 
 
 BroadcastEvent
 
 SendEventToClient
 
 SendEventToClient
+
+ConnectChangeEventFunction : 값이 바뀔때 함수 호출
+
+AddReplicateValue : 값 동기화
 
