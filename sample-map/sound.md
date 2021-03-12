@@ -8,15 +8,11 @@ description: 오브젝트에 충돌이 발생했을때 함수를 호출하는 �
 
 
 
-OnCollisionEvent : 충돌
+OnCollisionEvent : 다른 오브젝트와 충돌시 함수를 호출하는 예제에요. 
 
-OnBeginOverlapEvent : 오버랩 시작시 
+On~OverlapEvent : 다른 오브젝트와 겹쳐질 때 함수를 호출하는 예제에요. 
 
-OnUpdateOverlapEvent : 오버랩 중일때 프레임마다
+SetCharacterCollisionResponse : 오브젝트가 캐릭터와 충돌 시 어떻게 처리 할지를 설정하는 예제에요.
 
-OnEndOverlapEvent : 오버랩 종료시 
-
-SetCharacterCollisionResponse : 충돌체의 반응 방식을 설정 
-
-SetSimulatePhysics : 물리 설
+SetSimulatePhysics : 오브젝트의 물리 적용 여부를 설정하는 예제에요. 
 

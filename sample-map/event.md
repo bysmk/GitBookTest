@@ -12,17 +12,17 @@ description: 조건에 해당할때 연결된 함수를 호출하는 예제에�
 
 {% file src="../.gitbook/assets/ondeathevent.zip" caption="캐릭터가 사망될때 함수를 호출하는 예제에요." %}
 
-OnCreateEvent : 오브젝트 생성시
+OnCreateEvent : 오브젝트 생성시 함수를 호출하는 예제에요.
 
-OnDestroyEvent : 오브젝트 파괴시
+OnDestroyEvent : 오브젝트 파괴시 함수를 호출하는 예제에요.
 
-OnUpdateEvent : 프레임마다
+OnUpdateEvent : 프레임마다 함수를 호출하는 예제에요. 
 
-BroadcastEvent : 모든 클라로 이벤트 
+BroadcastEvent : 클라에 등록된 이벤트 함수를 모든 클라에서 호출하는 예제에요. 
 
-SendEventToClient : 특정 클라로 이벤트
+SendEventToClient : 클라에 등록된 이벤트 함수를 특 클라에서 호출하는 예제에요. 
 
-SendEventToClient : 서버로 이벤
+SendEventToClient : 서버에 등록된 이벤트 함수를 호출하는 예제에요. 
 
-ConnectChangeEventFunction : 값이 바뀔때 함수 호출
+ConnectChangeEventFunction : 값이 바뀔때마다 함수를 호출하는 예제에요. 
 

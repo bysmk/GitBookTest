@@ -8,9 +8,9 @@ description: 이펙트와 관련된 예제에요.
 
 
 
-Play
+Play : 이펙트를 재생하는 예제에요. 
 
-Stop
+Stop : 이펙트를 정하는 예제에요. 
 
-CreateFX
+CreateFX : 이펙트를 생성하는 예제에요. 
 

@@ -8,13 +8,13 @@ description: '오브젝트의 위치, 회전, 크기와 관련된 트랜스폼 �
 
 
 
-SetTransform : 오브젝트 위치,회전,크기 설정
+SetTransform : 오브젝트 위치/회전/크기 처리에 대한 예제에요. 
 
-Teleport : 오브젝트 즉시 이동 처
+Teleport : 오브젝트 즉시 이동 처리에 대한 예제에요. 
 
-Move TransformTrack : 이동 트
+Move TransformTrack : 이동 트랙 활용에 대한 예제에요.
 
-Rot TransformTrack : 회전 트랙
+Rot TransformTrack : 회전 트랙 활용에 대한 예제에요. 
 
-Size TransformTrack : 크기 트
+Size TransformTrack : 크기 트랙 활용에 대한 예제에요.
 

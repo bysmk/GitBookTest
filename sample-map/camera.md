@@ -8,13 +8,13 @@ description: Camera와 관련된 예제에요.
 
 
 
-고정 카메라 예\(탑뷰 같은거\) 
+탑뷰 고정 카메라 설정 예제 
 
-관전 카메라 예제 
+관전 카메라 설정 예제 
 
-PlayCameraShake : 카메라 쉐이크 
+PlayCameraShake : 카메라 쉐이크 처리에 대한 예제에요.  
 
-PlayCameraFade : 카메라 페이드 
+PlayCameraFade : 카메라 페이드 처리에 대한 예제에요. 
 
-SetFreeCamMode : 프리캠 
+SetFreeCamMode : 프리캠 설정에 대한 예제에요. 
 

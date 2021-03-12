@@ -8,9 +8,9 @@ description: Sound와 관련된 예제에요.
 
 
 
-Play
+Play : 사운드를 재생하는 예제에요. 
 
-Stop
+Stop : 사운드를 정지하는 예제에요. 
 
-PlaySound
+PlaySound : 사운드를 재생하는 예제에요. 
 
