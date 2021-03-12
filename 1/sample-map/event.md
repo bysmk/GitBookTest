@@ -26,11 +26,11 @@ OnUpdateOverlapEvent : 오버랩 중일때 프레임마다
 
 OnEndOverlapEvent : 오버랩 종료시 
 
-BroadcastEvent
+BroadcastEvent : 모든 클라로 이벤트 
 
-SendEventToClient
+SendEventToClient : 특정 클라로 이벤트
 
-SendEventToClient
+SendEventToClient : 서버로 이벤
 
 ConnectChangeEventFunction : 값이 바뀔때 함수 호출
 
