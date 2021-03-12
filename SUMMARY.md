@@ -17,19 +17,17 @@
   * [2. 오브젝트 편집](1/studio/2..md)
 * [Game Tutorial](1/game.md)
 * [Lua Tutorial](1/lua.md)
+* [Sample Map](1/sample-map/README.md)
+  * [Input](1/sample-map/input.md)
+  * [Camera](1/sample-map/camera.md)
+  * [FX](1/sample-map/fx.md)
+  * [Sound](1/sample-map/sound.md)
+  * [UI](1/sample-map/ui.md)
+  * [Event](1/sample-map/event.md)
 
 ---
 
 * [Developer Forum](https://rdevelop.ditoland.co.kr/)
 * [Release Note](release-note/README.md)
   * [Ver 1.0.0](release-note/ver-1.0.0.md)
-
-## Sample Group
-
-* [Event](sample-group/event.md)
-* [UI](sample-group/ui.md)
-* [Sound](sample-group/sound.md)
-* [FX](sample-group/fx.md)
-* [Camera](sample-group/camera.md)
-* [Input](sample-group/input.md)
 
