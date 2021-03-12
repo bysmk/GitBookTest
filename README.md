@@ -14,15 +14,17 @@ description: Test
 
 
 
+추천 게임 해보기
+
+{% embed url="https://rdevelop.ditoland.co.kr/main" %}
+
+
+
 {% page-ref page="studio-manual.md" %}
 
 {% page-ref page="resources.md" %}
 
 {% page-ref page="api-reference/" %}
-
-
-
-
 
 
 
