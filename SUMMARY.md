@@ -13,7 +13,7 @@
 
 * [Studio Tutorial](1/studio.md)
 * [Game Tutorial](1/game/README.md)
-  * [Untitled](1/game/untitled.md)
+  * [스튜디오 기본 사용법](1/game/untitled.md)
 * [Lua Tutorial](1/lua.md)
 
 ---
