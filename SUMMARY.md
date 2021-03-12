@@ -22,9 +22,9 @@
   * [Collision & Physics](1/sample-map/sound.md)
   * [Scripting](1/sample-map/logic.md)
   * [Transform](1/sample-map/transformtrack.md)
+  * [UI](1/sample-map/ui.md)
   * [Camera](1/sample-map/camera.md)
   * [Input](1/sample-map/input.md)
-  * [UI](1/sample-map/ui.md)
   * [Sound](1/sample-map/fx.md)
   * [FX](1/sample-map/fx-1.md)
 
