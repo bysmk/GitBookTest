@@ -28,9 +28,9 @@
   * [Sound](1/sample-map/fx.md)
   * [FX](1/sample-map/fx-1.md)
 
----
+## Info
 
 * [Developer Forum](https://rdevelop.ditoland.co.kr/)
-* [Release Note](release-note/README.md)
-  * [Ver 1.0.0](release-note/ver-1.0.0.md)
+* [Release Note](info/release-note/README.md)
+  * [Ver 1.0.0](info/release-note/ver-1.0.0.md)
 
