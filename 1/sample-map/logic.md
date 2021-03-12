@@ -10,6 +10,8 @@ description: 스크립팅과 관련된 예제 맵이에요.
 
 print
 
+Enable
+
 Is~ 함수 \(IsStaticMesh\)
 
 GetCharacter 
