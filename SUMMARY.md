@@ -9,35 +9,23 @@
   * [Common](api-reference/common.md)
   * [Client](api-reference/client.md)
   * [Server](api-reference/server.md)
-
-## Tutorial <a id="1"></a>
-
-* [Studio Tutorial](1/studio/README.md)
-  * [1. 오브젝트 배치](1/studio/untitled.md)
-  * [2. 오브젝트 편집](1/studio/2..md)
-* [Game Tutorial](1/game.md)
-* [Script Tutorial](1/lua.md)
-
-## Sample
-
-* [Sample Map](sample/sample-map/README.md)
-  * [Event](sample/sample-map/event.md)
-  * [Collision & Physics](sample/sample-map/sound.md)
-  * [Scripting](sample/sample-map/logic.md)
-  * [Transform](sample/sample-map/transformtrack.md)
-  * [UI](sample/sample-map/ui.md)
-  * [Camera](sample/sample-map/camera.md)
-  * [Input](sample/sample-map/input.md)
-  * [Sound](sample/sample-map/fx.md)
-  * [FX](sample/sample-map/fx-1.md)
-
-## Info
-
-* [Developer Forum](https://rdevelop.ditoland.co.kr/)
-* [Release Note](info/release-note/README.md)
-  * [Ver 1.0.0](info/release-note/ver-1.0.0.md)
-
----
-
-* [Untitled](untitled.md)
+* [Tutorial](tutorial/README.md)
+  * [Studio Tutorial](tutorial/studio/README.md)
+    * [1. 오브젝트 배치](tutorial/studio/untitled.md)
+    * [2. 오브젝트 편집](tutorial/studio/2..md)
+  * [Game Tutorial](tutorial/game.md)
+  * [Script Tutorial](tutorial/lua.md)
+* [Sample Map](sample-map/README.md)
+  * [Event](sample-map/event.md)
+  * [Collision & Physics](sample-map/sound.md)
+  * [Scripting](sample-map/logic.md)
+  * [Transform](sample-map/transformtrack.md)
+  * [UI](sample-map/ui.md)
+  * [Camera](sample-map/camera.md)
+  * [Input](sample-map/input.md)
+  * [Sound](sample-map/fx.md)
+  * [FX](sample-map/fx-1.md)
+* [Dev Forum](https://rdevelop.ditoland.co.kr/)
+* [Release Note](release-note/README.md)
+  * [Ver 1.0.0](release-note/ver-1.0.0.md)
 

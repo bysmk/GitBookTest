@@ -8,9 +8,9 @@ description: 조건에 해당할때 연결된 함수를 호출하는 이벤트 �
 
 
 
-{% file src="../../.gitbook/assets/onspawnevent.zip" caption="캐릭터가 생성될때 함수를 호출하는 예제에요." %}
+{% file src="../.gitbook/assets/onspawnevent.zip" caption="캐릭터가 생성될때 함수를 호출하는 예제에요." %}
 
-{% file src="../../.gitbook/assets/ondeathevent.zip" caption="캐릭터가 사망될때 함수를 호출하는 예제에요." %}
+{% file src="../.gitbook/assets/ondeathevent.zip" caption="캐릭터가 사망될때 함수를 호출하는 예제에요." %}
 
 OnCreateEvent : 오브젝트 생성시
 
