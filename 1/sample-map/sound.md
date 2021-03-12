@@ -18,3 +18,5 @@ OnEndOverlapEvent : 오버랩 종료시
 
 SetCharacterCollisionResponse : 충돌체의 반응 방식을 설정 
 
+SetSimulatePhysics : 물리 설
+
