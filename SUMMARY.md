@@ -9,7 +9,7 @@
   * [Common](api-reference/common.md)
   * [Client](api-reference/client.md)
   * [Server](api-reference/server.md)
-* [Tutorial](tutorial/README.md)
+* [Video Tutorial](tutorial/README.md)
   * [Studio Tutorial](tutorial/studio/README.md)
     * [1. 오브젝트 배치](tutorial/studio/untitled.md)
     * [2. 오브젝트 편집](tutorial/studio/2..md)
