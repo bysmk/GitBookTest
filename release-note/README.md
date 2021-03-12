@@ -1,4 +1,2 @@
 # Release Note
 
-Release Note
-
