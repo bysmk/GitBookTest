@@ -16,7 +16,7 @@
   * [1. 오브젝트 배치](1/studio/untitled.md)
   * [2. 오브젝트 편집](1/studio/2..md)
 * [Game Tutorial](1/game.md)
-* [Lua Tutorial](1/lua.md)
+* [Script Tutorial](1/lua.md)
 * [Sample Map](1/sample-map/README.md)
   * [Event](1/sample-map/event.md)
   * [Collision](1/sample-map/sound.md)

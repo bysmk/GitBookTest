@@ -1,2 +1,2 @@
-# Lua Tutorial
+# Script Tutorial
 
