@@ -10,23 +10,26 @@
   * [Client](api-reference/client.md)
   * [Server](api-reference/server.md)
 
-## Tutorial Group <a id="1"></a>
+## Tutorial <a id="1"></a>
 
 * [Studio Tutorial](1/studio/README.md)
   * [1. 오브젝트 배치](1/studio/untitled.md)
   * [2. 오브젝트 편집](1/studio/2..md)
 * [Game Tutorial](1/game.md)
 * [Script Tutorial](1/lua.md)
-* [Sample Map](1/sample-map/README.md)
-  * [Event](1/sample-map/event.md)
-  * [Collision & Physics](1/sample-map/sound.md)
-  * [Scripting](1/sample-map/logic.md)
-  * [Transform](1/sample-map/transformtrack.md)
-  * [UI](1/sample-map/ui.md)
-  * [Camera](1/sample-map/camera.md)
-  * [Input](1/sample-map/input.md)
-  * [Sound](1/sample-map/fx.md)
-  * [FX](1/sample-map/fx-1.md)
+
+## Sample
+
+* [Sample Map](sample/sample-map/README.md)
+  * [Event](sample/sample-map/event.md)
+  * [Collision & Physics](sample/sample-map/sound.md)
+  * [Scripting](sample/sample-map/logic.md)
+  * [Transform](sample/sample-map/transformtrack.md)
+  * [UI](sample/sample-map/ui.md)
+  * [Camera](sample/sample-map/camera.md)
+  * [Input](sample/sample-map/input.md)
+  * [Sound](sample/sample-map/fx.md)
+  * [FX](sample/sample-map/fx-1.md)
 
 ## Info
 
