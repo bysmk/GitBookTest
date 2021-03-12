@@ -1,5 +1,5 @@
 ---
-description: Camera와 관련된 예제 맵이에요.
+description: Camera와 관련된 예제에요.
 ---
 
 # Camera
