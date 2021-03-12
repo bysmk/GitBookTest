@@ -1,8 +1,12 @@
-# TransformTrack
+# Transform
 
-Move
+SetTransform
 
-Rot
+Teleport
 
-Size
+Move TransformTrack 
+
+Rot TransformTrack 
+
+Size TransformTrack 
 
