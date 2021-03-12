@@ -1,5 +1,14 @@
 # Coding Style
 
+잘된 예|잘못된 예
+---|---
+```lua|```lua
+local WorldString = "Hello world!"|local WorldString = "Hello world!"
+```|```
+
+
+
+
 ## 지역 변수
 
 local로 선언한 변수를 지역 변수라고 해요.
