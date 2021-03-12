@@ -18,12 +18,12 @@
 * [Game Tutorial](1/game.md)
 * [Lua Tutorial](1/lua.md)
 * [Sample Map](1/sample-map/README.md)
+  * [Function](1/sample-map/sound.md)
   * [Event](1/sample-map/event.md)
   * [Camera](1/sample-map/camera.md)
-  * [FX](1/sample-map/fx.md)
-  * [Sound](1/sample-map/sound.md)
   * [Input](1/sample-map/input.md)
   * [UI](1/sample-map/ui.md)
+  * [Sound & FX](1/sample-map/fx.md)
 
 ---
 
