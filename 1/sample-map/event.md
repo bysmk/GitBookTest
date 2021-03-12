@@ -18,14 +18,6 @@ OnDestroyEvent : 오브젝트 파괴시
 
 OnUpdateEvent : 프레임마다
 
-OnCollisionEvent : 충돌
-
-OnBeginOverlapEvent : 오버랩 시작시 
-
-OnUpdateOverlapEvent : 오버랩 중일때 프레임마다
-
-OnEndOverlapEvent : 오버랩 종료시 
-
 BroadcastEvent : 모든 클라로 이벤트 
 
 SendEventToClient : 특정 클라로 이벤트

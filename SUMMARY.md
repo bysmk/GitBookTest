@@ -19,7 +19,7 @@
 * [Lua Tutorial](1/lua.md)
 * [Sample Map](1/sample-map/README.md)
   * [Event](1/sample-map/event.md)
-  * [Function](1/sample-map/sound.md)
+  * [Collision](1/sample-map/sound.md)
   * [Camera](1/sample-map/camera.md)
   * [Input](1/sample-map/input.md)
   * [UI](1/sample-map/ui.md)
