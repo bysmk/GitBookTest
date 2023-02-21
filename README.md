@@ -2,15 +2,15 @@
 description: m
 ---
 
-# Studiovvvvvvv
+# Studiovv퓨ㅜ푸vvvvv
 
 ***
 
-### description: 스튜디오의 기본 사용 방법이에요11vvvvvvv
+### description: 스튜디오의 기본 사용 방법이에요ㅠㅜ퓨ㅜㅍㅠㅜ퓨ㅜ퓨ㅜ11vvvvvvv
 
 ## Studio4
 
-### 메뉴 바 - Menu Bar
+### 메뉴 바 - Menu Bar퓨ㅜ푸퓨ㅜㅍ
 
 기본적으로 스튜디오의 상단에 위치하고 있습니다. 원하는 위치에 이동시킬 수 있습니다.
 
@@ -19,9 +19,8 @@ description: m
 ![](.gitbook/assets/studio\_manual\_220622\_01.png)
 
 1. 파일 메뉴 (FileMenu)
-2. 실행 취소 , 다시 실행 (Undo , Redo)
-3. MultiTest 탭 메뉴
-4. 빠른 실행 메뉴 (Quick Menu)
+2. 실행 취소 , 다시 실행 (Undo , Redo)퓨ㅜ
+3. 빠른 실행 메뉴 (Quick Menu)
 
 #### 파일 메뉴 - File Menu11
 
